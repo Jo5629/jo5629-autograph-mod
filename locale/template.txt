@@ -1,4 +1,4 @@
-# textdomain: autograph_mod
+# textdomain: autograph
 Wielded item invalid.=
 Item/Node has already been signed.=
 Signed By:=
