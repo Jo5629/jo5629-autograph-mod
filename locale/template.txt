@@ -1,0 +1,10 @@
+# textdomain: autograph
+Wielded item invalid.=
+Item/Node has already been signed.=
+Signed By:=
+%s signed an item/node.=
+Player in param is not real.=
+You can not be the same signer and receiver!=
+Given to:=
+Signed to:=
+Sign your wielded item with your username.=

@@ -1,0 +1,10 @@
+# textdomain: autograph
+Wielded item invalid.=Предмет в руці некоректний.
+Item/Node has already been signed.=Предмет/Блок вже підписаний.
+Signed By:=Підписано:
+%s signed an item/node.=%s підписав предмет/блок.
+Player in param is not real.=Гравець в аргументах не є реальним.
+You can not be the same signer and receiver!=Ви не можете водночас бути підписувачем та отримувачем!
+Given to:=Для:
+Signed to:=Підписано для:
+Sign your wielded item with your username.=Підписати предмет у руці вашим ім'ям.
